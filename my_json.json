@@ -1,0 +1,10 @@
+{
+  "tipo": "camiseta",
+  "marca": [
+    "Nike",
+    "Nike Air",
+    "Nike Air Jordan"
+  ],
+  "precio": 32.99,
+  "temporada": "2023-2024"
+}
